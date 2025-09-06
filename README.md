@@ -27,13 +27,13 @@ We recommend using **OKX ecosystem products**, which include complete exchange a
 Includes exchange + wallet functionality, suitable for users who need to purchase OKB:
 
 [![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/okx-buy-bitcoin-btc-crypto/id1327268470?platform=iphone)
-[![Get it on Google Play](${https://r2.acexiamo.com/google-play.png})]`https://play.google.com/store/search?q=okx&c=apps)`
+[![Get it on Google Play](${/static/google-play.png})]`https://play.google.com/store/search?q=okx&c=apps)`
 
 #### Option 2: OKX Wallet (Standalone Wallet)
 Pure wallet functionality, suitable for advanced users who already have OKB:
 
 [![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/okx-wallet-portal-to-web3/id6743309484)
-[![Get it on Google Play](${https://r2.acexiamo.com/google-play.png})]`https://play.google.com/store/apps/details?id=com.okx.wallet)`
+[![Get it on Google Play](${/static/google-play.png})]`https://play.google.com/store/apps/details?id=com.okx.wallet)`
 
 ### Beginner Wallet Setup Tutorial
 
