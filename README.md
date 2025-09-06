@@ -26,26 +26,14 @@ We recommend using **OKX ecosystem products**, which include complete exchange a
 #### Option 1: OKX Main App (Recommended for beginners)
 Includes exchange + wallet functionality, suitable for users who need to purchase OKB:
 
-<div style={{display: "flex", gap: "10px", alignItems: "center"}}>
-  <a href="https://apps.apple.com/us/app/okx-buy-bitcoin-btc-crypto/id1327268470?platform=iphone">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" style={{height: "50px"}} />
-  </a>
-  <a href="https://play.google.com/store/search?q=okx&c=apps">
-    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" style={{height: "70px"}} />
-  </a>
-</div>
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/okx-buy-bitcoin-btc-crypto/id1327268470?platform=iphone)
+[![Get it on Google Play](${https://r2.acexiamo.com/google-play.png})]`https://play.google.com/store/search?q=okx&c=apps)`
 
 #### Option 2: OKX Wallet (Standalone Wallet)
 Pure wallet functionality, suitable for advanced users who already have OKB:
 
-<div style={{display: "flex", gap: "10px", alignItems: "center"}}>
-  <a href="https://apps.apple.com/us/app/okx-wallet-portal-to-web3/id6743309484">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" style={{height: "50px"}} />
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.okx.wallet">
-    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" style={{height: "70px"}} />
-  </a>
-</div>
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/okx-wallet-portal-to-web3/id6743309484)
+[![Get it on Google Play](${https://r2.acexiamo.com/google-play.png})]`https://play.google.com/store/apps/details?id=com.okx.wallet)`
 
 ### Beginner Wallet Setup Tutorial
 
@@ -55,8 +43,7 @@ Pure wallet functionality, suitable for advanced users who already have OKB:
 3. Set a secure password (6-20 characters)
 4. Proceed to backup seed phrase
 
-<img src="https://r2.acexiamo.com/nexion:to-web3.jpg" style={{height: "400px"}} />
-<br />
+![Nexion Web3 Setup](https://r2.acexiamo.com/nexion:to-web3.jpg)
 
 #### Step 2: Backup Seed Phrase (Extremely Important!)
 1. **Record seed phrase**: Write down the 12 English words with pen and paper
@@ -74,22 +61,19 @@ Pure wallet functionality, suitable for advanced users who already have OKB:
    OKX Homepage → "Buy Crypto" → Select USDT → Enter amount → Choose payment method
    ```
 
-<img src="https://r2.acexiamo.com/nexion:trading.jpg" style={{height: "400px"}} />
-<br />
+![OKX Trading Interface](https://r2.acexiamo.com/nexion:trading.jpg)
 
 2. **Convert USDT to OKB**
    ```
    Homepage → "Trade" → "Convert" → USDT to OKB → Confirm conversion
    ```
-<img src="https://r2.acexiamo.com/nexion:convert.jpg" style={{height: "400px"}} />
-<br />
+![OKX Convert Interface](https://r2.acexiamo.com/nexion:convert.jpg)
 
 3. **Transfer to wallet address**
    ```
    Assets → OKB → Withdraw → Enter wallet address → Select X Layer network → Confirm transfer
    ```
-<img src="https://r2.acexiamo.com/nexion:withdraw.jpg" style={{height: "400px"}} />
-<br />
+![OKX Withdraw Interface](https://r2.acexiamo.com/nexion:withdraw.jpg)
 
 ##### For blockchain veterans: Direct transfer
 If you already have OKB or other tokens, you can:
@@ -110,8 +94,7 @@ Nexion runs on **X Layer** blockchain, so you need to switch networks:
    - After successful addition, select X Layer as the current network
    - Ensure your OKB is on the X Layer network
 
-<img src="https://r2.acexiamo.com/nexion:network.jpg" style={{height: "400px"}} />
-<br />
+![X Layer Network Setup](https://r2.acexiamo.com/nexion:network.jpg)
 
 ## 📥 Step 2: Install Nexion
 
